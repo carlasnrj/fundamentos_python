@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Dados gerados localmente pela aplicação
+dados/*.csv
+!dados/.gitkeep
