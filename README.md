@@ -1,3 +1,5 @@
+#teste
+
 # Sistema de Gestão de Produtos
 
 Aplicação de linha de comando desenvolvida em Python para cadastro e gerenciamento de produtos.
