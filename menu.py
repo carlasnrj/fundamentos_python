@@ -14,8 +14,7 @@ def selecionar_opcao() -> str:
     return input("Escolha uma opção: ").strip()
 
 def executar_opcao(opcao: str) -> bool:
-    repository = ProdutoRepository("dados/produtos.csv")
-    servico = produto_service.ProdutoService(repository)
+    repository = ProdutoRepository("dados/produtos.csv")    
     if opcao == "1":
         produto_service.cadastrar_produto(repository)
     elif opcao == "2":
