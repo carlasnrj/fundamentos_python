@@ -247,8 +247,7 @@ Nova categoria [VESTUARIO]:
 | Integrante | Participação |
 |---|---|
 | Integrante 1 | Abertura, problema e requisitos |
-| Integrante 2 | Arquitetura e `main.py`/`menu.py` |
-| Integrante 3 | `Produto`, serviço e repository |
-| Integrante 4 | Demonstração e reflexão final |
+| Integrante 2 | Arquitetura e `main.py`/`menu.py`, `Produto`, serviço e repository|
+| Integrante 3 | Demonstração e reflexão final |
 
 Caso o grupo tenha menos integrantes, uma pessoa pode acumular as partes de código e outra pode conduzir a demonstração.
